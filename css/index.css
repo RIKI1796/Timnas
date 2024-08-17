@@ -89,6 +89,7 @@ nav {
     background-clip: initial;
 }
   nav {
+    font-size: 20px;
     margin-bottom: 5vh;
     display: flex;
   }
@@ -165,5 +166,8 @@ video {
   -webkit-text-stroke: 0.8px #f4e836;
   font-family: Georgia;
   font-size: 20px
+  }
+  .jadwal{
+    font-size: 20px;
   }
 }
