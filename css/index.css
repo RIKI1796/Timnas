@@ -116,7 +116,7 @@ nav {
   .timnas {
     -webkit-text-stroke: 1.7px;
     margin-right: 20px;
-    font-size: 14px;
+    font-size: 16px;
     padding-left: 35px;
   }
   .timnas2 {
@@ -132,7 +132,7 @@ nav {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-family: Monospace;
-  font-size: 10px;
+  font-size: 14px;
   -webkit-text-stroke: 1.3px black;
 }
 video {
