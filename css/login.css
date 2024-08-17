@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(to bottom, red, red, white);
+  background-repeat: no-repeat;
+}
+.timnas {
+  font-size: 30px;
+  font-family: Monospace;
+  margin-bottom: 200px;
+}
+input {
+  border-radius: 10px;
+  font-family: serif;
+  padding-right: 80px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+input:active {
+  background-color: #c5c5c5;
+}
+button {
+  font-family: Monospace;
+  background-color: cyan;
+}
+button:active {
+  background-color: gray;
+}
+h2 {
+  font-family: serif;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
