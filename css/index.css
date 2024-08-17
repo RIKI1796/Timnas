@@ -89,7 +89,7 @@ nav {
     background-clip: initial;
 }
   nav {
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 5vh;
     display: flex;
   }
@@ -168,6 +168,6 @@ video {
   font-size: 20px
   }
   .jadwal{
-    font-size: 20px;
+    font-size: 16px;
   }
 }
