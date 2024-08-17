@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/login.css">
+  <script src="js/login.js"></script>
   <title>login page</title>
 </head>
 <body>
@@ -24,20 +25,5 @@
   <center>
     <button onclick="login()" type="submit">Konfirmasi</button>
   </center>
-  
-  <script>
-         function login() {
-         var jawaban = document.getElementById('jawaban').value;
-         var wrong = document.getElementById('wrong');
-  
-         if (jawaban === 'Timnas Indonesia') {
-           location.href = "/Timnas.html";
-        } else {
-            alert ('Jawaban Salah!')
-            location.href="/login.html";
-        }
-   }
-         console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
-</script>
 </body>
 </html>
