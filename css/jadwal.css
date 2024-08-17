@@ -1,0 +1,93 @@
+h1 {
+  background: linear-gradient(to bottom, red, red, white, white);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 0.8px black;
+  font-family: Monospace;
+  font-size: 27px;
+}
+body{
+  background-color: #ffd908;
+}
+.away1 {
+  background: linear-gradient(to right, green, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.away2 {
+  background: linear-gradient(to right, #c80000, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.away3 {
+  background: linear-gradient(to right, #d30000, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.away4 {
+  background: linear-gradient(to right, blue, red, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.away5 {
+  background: linear-gradient(to right, white, white, red, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+  -webkit-text-stroke: 0.6px black;
+}
+.home1 {
+  background: linear-gradient(to right, red, blue, blue);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.home2 {
+  background: linear-gradient(to right, red, white, white, white);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+  -webkit-text-stroke: 0.6px black;
+}
+.home3 {
+  background: linear-gradient(to right, red, green);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.home4 {
+  background: linear-gradient(to right, red, #c80000);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
+.home5 {
+  background: linear-gradient(to right, #d30000, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Times New Roman;
+  font-size: 120%;
+  margin-top: 60px;
+}
