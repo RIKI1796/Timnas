@@ -6,7 +6,7 @@ function login() {
            location.href = "/Timnas.html";
         } else {
             alert ('Jawaban Salah!')
-            location.href = "timnas-indo.vercel.app";
+            return;
         }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
