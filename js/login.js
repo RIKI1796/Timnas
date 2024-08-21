@@ -7,6 +7,7 @@ function login() {
         } else {
             alert ('Jawaban Salah!')
             window.location.href = "../login.html"
+            return;
         }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
