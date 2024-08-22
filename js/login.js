@@ -4,7 +4,6 @@ function login() {
   
          if (jawaban === 'Timnas Indonesia') {
            location.href = "/Timnas.html";
-           return: true;
          }
          if (jawaban !== "Timnas Indonesia") {
              alert ("Jawaban Salah!")
