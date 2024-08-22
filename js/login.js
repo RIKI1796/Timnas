@@ -11,7 +11,6 @@ function login() {
         }
          if (jawaban === '') {
             alert ("Jawaban Tidak Boleh Kosong!")
-            return: false;
          }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
