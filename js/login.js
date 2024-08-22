@@ -6,7 +6,9 @@ function login() {
            location.href = "/Timnas.html";
         } else {
             alert ('Jawaban Salah!')
-            window.history.back()
+            window.location.href = "/";
         }
+         if (jawaban === "") {
+            alert ("Jawaban Tidak Boleh Kosong!")
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
