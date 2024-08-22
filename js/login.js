@@ -6,7 +6,7 @@ function login() {
            location.href = "/Timnas.html";
         } else {
             alert ('Jawaban Salah!')
-            window.location.href = "/";
+            return: false;
         }
          if (jawaban === "") {
             alert ("Jawaban Tidak Boleh Kosong!")
