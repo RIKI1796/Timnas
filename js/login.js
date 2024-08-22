@@ -5,7 +5,7 @@ function login() {
          if (jawaban === 'Timnas Indonesia') {
            location.href = "/Timnas.html";
         } else {
-            alert ('Jawaban Salah!');
+            alert ('Jawaban Salah!')
         }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
