@@ -4,9 +4,11 @@ function login() {
   
          if (jawaban === 'Timnas Indonesia') {
            location.href = "/Timnas.html";
-        } else {
-            alert ('Jawaban Salah!')
-            return: false;
+           return: true;
+         }
+         if (jawaban !== "Timnas Indonesia") {
+             alert ("Jawaban Salah!")
+             return: false;
         }
          if (jawaban === "") {
             alert ("Jawaban Tidak Boleh Kosong!")
