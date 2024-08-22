@@ -8,6 +8,7 @@ function login() {
          }
          if (jawaban !== "Timnas Indonesia") {
              alert ("Jawaban Salah!")
+             window.location.href = "/";
              return: false;
         }
          if (jawaban === "") {
