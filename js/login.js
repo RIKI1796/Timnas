@@ -6,6 +6,7 @@ function login() {
            location.href = "/Timnas.html";
         } else {
             alert ('Jawaban Salah!')
+            window.history.back()
         }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
