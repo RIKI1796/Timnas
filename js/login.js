@@ -9,5 +9,7 @@ function login() {
              alert ("Jawaban Salah!")
              window.location.href = "/";
          }
+         if (jawaban === '') {
+         }
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
