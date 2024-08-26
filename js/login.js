@@ -3,10 +3,10 @@ function login() {
          var wrong = document.getElementById('wrong');
   
          if (jawaban === 'Timnas Indonesia') {
-           location.href = "/Timnas.html";
+           window.location.href = "/Timnas.html";
          } else {
                   alert ("Jawaban Salah!")
-                  location.href = "/"
+                  window.location.href = "/"
          };
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
