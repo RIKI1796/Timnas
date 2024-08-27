@@ -1,7 +1,7 @@
 function login() {
          var jawaban = document.getElementById('jawaban').value;
   
-         if (jawaban === 'Timnas Indonesia') {
+         if (jawaban === 'Timnas') {
            location.href = "/Timnas.html";
 
          };
