@@ -3,7 +3,8 @@ function login() {
          var button = document.getElementById('button');
   
          if (jawaban === 'TimnasIndonesia') {
-           location.href = "#Timnas.html";
+           href = "/Timnas.html";
+
          };
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
