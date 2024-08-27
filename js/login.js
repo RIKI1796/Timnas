@@ -1,9 +1,9 @@
 function login() {
          var jawaban = document.getElementById('jawaban').value;
-         var wrong = document.getElementById('wrong');
+         var button = document.getElementById('button');
   
          if (jawaban === 'Timnas Indonesia') {
-           location.href = "/Timnas.html";
+           button.href = "/Timnas.html";
          };
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
