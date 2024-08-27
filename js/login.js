@@ -3,7 +3,7 @@ function login() {
          var wrong = document.getElementById('wrong');
   
          if (jawaban === 'Timnas Indonesia') {
-           window.location.href = "/Timnas.html";
+           href = "/Timnas.html";
          };
    }
          console.log("Menyala Abangkuuu!!🔥🔥🔥🔥");
